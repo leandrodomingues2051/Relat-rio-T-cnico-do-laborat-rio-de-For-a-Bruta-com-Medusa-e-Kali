@@ -51,7 +51,9 @@ Enviar o link do seu repositório e uma breve descrição clicando no botão “
 
 ### Materiais Complementares sobre GitHub 
 
-GitHub Quick Start – Repositório com links para aulas de Git e GitHub
-GitBook: Formação GitHub Certification – Material textual sobre GitHub
+- [GitHub Quick Start](https://github.com/digitalinnovationone/github-quickstart): Repositório com links para aulas de Git e GitHub
+- [GitBook: Formação GitHub Certification](https://aline-antunes.gitbook.io/formacao-fundamentos-github): Material textual sobre GitHub
+- [Documentação do GitHub – Guia completo para uso do GitHub](https://docs.github.com/)
+- [GitHub Markdown – Guia de sintaxe de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 Documentação do GitHub – Guia completo para uso do GitHub
 GitHub Markdown – Guia de sintaxe de Markdown
